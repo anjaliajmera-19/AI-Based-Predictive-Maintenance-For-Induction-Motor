@@ -111,45 +111,15 @@ Streamlit
 
 The models were evaluated using an 80:20 training-testing split.
 
-Model
+Model:MAE, RMSE, R² Score
 
-MAE
+Linear Regression: 1642.11, 2039.18, 0.9061
 
-RMSE
+Random Forest:1081.68, 1556.53, 0.9453
 
-R² Score
+XGBoost:1078.54, 1549.36, 0.9458
 
-Linear Regression
-
-1642.11
-
-2039.18
-
-0.9061
-
-Random Forest
-
-1081.68
-
-1556.53
-
-0.9453
-
-XGBoost
-
-1078.54
-
-1549.36
-
-0.9458
-
-Tuned XGBoost
-
-1067.58
-
-1520.56
-
-0.9478
+Tuned XGBoost:1067.58, 1520.56, 0.9478
 
 The tuned XGBoost model achieved the best performance, with an R² score of approximately 94.78%.
 
