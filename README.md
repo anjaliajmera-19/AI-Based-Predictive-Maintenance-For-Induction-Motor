@@ -93,11 +93,11 @@ Support condition-based and predictive maintenance decisions.
 
 Machine Learning Models:
 
-Linear Regression
+1.Linear Regression
 
-Random Forest Regressor
+2.Random Forest Regressor
 
-XGBoost Regressor
+3.XGBoost Regressor
 
 Explainable AI:
 
@@ -123,7 +123,7 @@ Tuned XGBoost:1067.58, 1520.56, 0.9478
 
 The tuned XGBoost model achieved the best performance, with an R² score of approximately 94.78%.
 
-Predictive Maintenance Application
+**Predictive Maintenance Application**
 
 The Streamlit application provides:
 
